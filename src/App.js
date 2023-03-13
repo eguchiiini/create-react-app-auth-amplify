@@ -16,6 +16,8 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
+          <h1>Sample App</h1>
+          <p>これはサンプルで作成したアプリです。</p>
           <a
             className="App-link"
             href="https://reactjs.org"
@@ -25,8 +27,6 @@ class App extends Component {
             Learn React
           </a>
         </header>
-        <h1>Sample App</h1>
-        <p>これはサンプルで作成したアプリです。</p>
       </div>
     );
   }
